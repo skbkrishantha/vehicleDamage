@@ -17,4 +17,4 @@ scipy >=1.6.3
 seaborn  >=0.11.1
 wcwidth  >=0.2.5
 Werkzeug >=2.0.0
-detectron2 ==0.4  
+detectron2 =0.4  
