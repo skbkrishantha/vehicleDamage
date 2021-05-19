@@ -1,8 +1,7 @@
 torch  >=1.8.1
 torchaudio >=0.8.0a0+e4e171a
 torchvision  >=0.9.1
-decorator >= 4.4.2
-detectron2 >=0.4                 
+decorator >= 4.4.2              
 Flask >= 2.0.0
 importlib-resources >=5.1.3
 kiwisolver >=1.3.1
@@ -18,3 +17,4 @@ scipy >=1.6.3
 seaborn  >=0.11.1
 wcwidth  >=0.2.5
 Werkzeug >=2.0.0
+detectron2
