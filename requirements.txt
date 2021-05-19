@@ -13,10 +13,6 @@ pycocotools  >=2.0.2
 scikit-image >=0.18.1
 scipy >=1.6.3
 seaborn  >=0.11.1
-tabulate >=0.8.9
-tensorboard  >=2.5.0
-tensorboard-data-server >=0.6.1
-tensorboard-plugin-wit  v1.8.0
 torch  >=1.8.1
 torchaudio >=0.8.0a0+e4e171a
 torchvision  >=0.9.1
