@@ -1,0 +1,24 @@
+decorator >= 4.4.2
+detectron2 >=0.4                 
+Flask >= 2.0.0
+importlib-resources >=5.1.3
+kiwisolver >=1.3.1
+matplotlib >=3.4.2
+numpy  >=1.20.1
+opencv-python >=4.5.2.52
+pandas  >=1.2.4
+pickleshare  >=0.7.5
+Pillow  >=8.2.0
+pycocotools  >=2.0.2
+scikit-image >=0.18.1
+scipy >=1.6.3
+seaborn  >=0.11.1
+tabulate >=0.8.9
+tensorboard  >=2.5.0
+tensorboard-data-server >=0.6.1
+tensorboard-plugin-wit  v1.8.0
+torch  >=1.8.1
+torchaudio >=0.8.0a0+e4e171a
+torchvision  >=0.9.1
+wcwidth  >=0.2.5
+Werkzeug >=2.0.0
